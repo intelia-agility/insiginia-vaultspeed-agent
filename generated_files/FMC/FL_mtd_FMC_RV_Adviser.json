@@ -1,4 +1,0 @@
-{
-	"hub_adviser" : {"dependencies": ["hub_raw_evolve_adviser_init"], "schema": "sandbox_rdv_rv"},
-	"sat_raw_evolve_adviser" : {"dependencies": ["sat_raw_evolve_hub_adviser_init"], "schema": "sandbox_rdv_rv"}
-}
